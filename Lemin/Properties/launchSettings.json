@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lemin": {
+      "commandName": "Project",
+      "commandLineArgs": "map3.txt"
+    }
+  }
+}

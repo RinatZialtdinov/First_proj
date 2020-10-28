@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "k77qghkh2uXGxQXEhBtI9DSbv/2Rxv2prJpoFouyJjlnZlr7inqP0+X85USLN67pBRL4CBFGKEodyMgO0rUUFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rinat\\source\\repos\\HelloApp\\Lemin\\Lemin\\Lemin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rinat\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rinat\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Rinat\\.nuget\\packages\\quickgraph\\3.6.61119.7\\quickgraph.3.6.61119.7.nupkg.sha512",
+    "C:\\Users\\Rinat\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"QuickGraph 3.6.61119.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "QuickGraph",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
